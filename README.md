@@ -2,6 +2,12 @@
 This is a tool to download youtube videos.
 Just paste the link to the youtube video one at a time.
 
+# Upcoming Features
+Some of the upcoming features include:
++ Proper web based UI
++ Video Download quality selection
++ Music Download options
+
 # Pre-requisites
 You need these things for this work:
 + Git
@@ -67,7 +73,7 @@ Enter the link : https://youtube.com/example.mp4
 
 
 # Contributing
-We welcome contributions from the community!\If you'd like to contribute to youtube-video-downloader, please read the following guidelines on how to contribute:
+We welcome contributions from the community! If you'd like to contribute to youtube-video-downloader, please read the following guidelines on how to contribute:
 + Fork the repository and create a new branch for your changes.
 + Make your changes to the code.
 + Test your changes thoroughly.
